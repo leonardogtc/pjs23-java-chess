@@ -1,0 +1,25 @@
+!SESSION 2025-06-22 12:27:13.885 -----------------------------------------------
+eclipse.buildId=4.36.0.20250529-0657
+java.version=21.0.7
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-22 12:27:16.834
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-22 12:27:46.107
+!MESSAGE Logback config file: /home/leonardo/eclipse-workspace/pjs23_chess/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-06-22 12:27:51.615
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-06-22 12:27:51.675
+!MESSAGE [Info] Lsp agent started successfully.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-06-22 12:27:53.825
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.321.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-06-22 12:27:54.487
+!MESSAGE [Info]	[certificates] Removed 3 expired certificates
